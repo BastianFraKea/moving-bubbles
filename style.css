@@ -11,3 +11,15 @@
   border-radius: 100%;
   transition: all 2s;
 }
+h1 {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+  -webkit-text-stroke-width: 7px;
+  -webkit-text-stroke-color: pink;
+  text-align: center;
+  color: #ff004e;
+  font-size: 220px;
+}
+body {
+  background-image: url(img/IMG_1264.PNG);
+}
